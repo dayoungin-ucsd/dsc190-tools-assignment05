@@ -1,5 +1,10 @@
+import os
+import sys
+import json
+
 def main():
-    print("Hello from dsc190-tools-assignment05!")
+    unused_variable = 42
+    print("Testing GitHub Actions lint failure!")
 
 
 if __name__ == "__main__":
