@@ -1,4 +1,3 @@
-
 def main():
     print("Testing GitHub Actions lint failure!")
 
