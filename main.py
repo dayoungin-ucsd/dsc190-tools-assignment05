@@ -1,5 +1,6 @@
+
 def main():
-    print("Hello from dsc190-tools-assignment05!")
+    print("Testing GitHub Actions lint failure!")
 
 
 if __name__ == "__main__":
